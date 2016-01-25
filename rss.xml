@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[trial]]></title>
+        <description><![CDATA[trial]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 25 Jan 2016 00:13:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Wozzles]]></title>
+            <description><![CDATA[<article><h1>Wozzles</h1><p>Business Card of an Apple creator</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff2b85af-36f4-4f4b-a68a-dac20eddefa3.png"></article>]]></description>
+            <link>undefinedwozzles/index.html</link>
+            <guid isPermaLink="false">ff1c9e44-fc1f-4c29-ad10-eb7729a70ce5</guid>
+            <pubDate>Mon, 25 Jan 2016 00:13:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
