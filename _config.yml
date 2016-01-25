@@ -1,0 +1,28 @@
+name: trial
+favicon: null
+layout_spectrum: 0.027552545303478837
+typography_spectrum: 0.5455453554168344
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5180660849437118
+  lightness: 0.5007175346836448
+  saturation: 0.7491738784592599
+  rhythmicContrast: 0.5542972960975021
+purpose: []
